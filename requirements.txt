@@ -6,4 +6,7 @@ xgboost
 scikit-learn
 matplotlib
 dill
+Flask
+flask
+flask_cors
 #-e .
